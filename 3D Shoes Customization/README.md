@@ -83,25 +83,11 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 
 <br>
 
-<br>
-
-## 7. 팀원 및 담당 역할  
-
-<팀원>  
-- 전공생 5명   
-
-<br>
-  
-<담당 역할>    
-- SAM(Segment Anything Model) 실험 및 mask 생성
-- CAP-VSTNet(Style Transfer) 실험
-- Composition 코드 구현 
-
 <br/>
 
 <br>
 
-## 8. 발표 자료 및 Reference  
+## 7. 발표 자료 및 Reference  
 
 - 발표 자료   
 https://drive.google.com/file/d/1Jt1fnHNPGgiIQA1vgt_MnyuqAvgECDib/view?usp=sharing
