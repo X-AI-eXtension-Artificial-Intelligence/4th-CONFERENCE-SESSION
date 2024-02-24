@@ -1,0 +1,17 @@
+TrackEval
+YOLOX_outputs
+assets
+build
+cython_bbox
+deploy
+docs
+exps
+fast_reid
+inpaint
+motmetrics
+pretrained
+tools
+trackers
+utils
+videos
+yolox

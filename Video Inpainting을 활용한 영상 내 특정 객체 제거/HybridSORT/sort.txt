@@ -1,0 +1,1 @@
+python tools/demo_track.py --demo_type video -f exps/example/mot/yolox_x_mix_mot20_ch_hybird_sort_reid.py --path ./videos/street_video.mp4 --fp16 --fuse --save_result --out_path ./videos/street_video_track_1.mp4 --input_bbox 640,470,30,60
